@@ -1,5 +1,5 @@
-# Embedded-System
-Repositori ini untuk resume praktikum Embedded System Laboratorium Workshop 
+# Embedded-System-2024
+Resume praktikum Embedded System Laboratorium Workshop 
 --------------------------------------------------------------------------
 
 Software dan tools yang dipakai :
@@ -16,14 +16,14 @@ Software dan tools yang dipakai :
 
 Video Pembelajaran :
 --------------------
-1. Video 1  : Pengenalan Embedded System                     : https://youtu.be/PPVivTmXwVE
-2. Video 2  : Mikrokontroler dan Papan Sistem Terpadu        : https://youtu.be/k5UpzvhnOlo
-3. Video 3  : Penerapan Display                              : https://youtu.be/WL0gW8knJcs
-4. Video 4  : Penerapan Sensor                               : https://youtu.be/z0-Zx7utui8
-5. Video 5  : Penerapan Aktuator                             : https://youtu.be/RQDf2PqAVK4
-6. Video 6  : Real Time Operating System (RTOS)              : https://youtu.be/5YTWKh5OQj8
-7. Video 7  : Komunikasi Universal Asynchronus RX/TX (UART)  : https://youtu.be/9IooCyJXRhM
-8. Video 8  : Komunikasi Inter Intergrated Circuit (I2C)     : https://youtu.be/xPmvo6BOTAY
-9. Video 9  : Komunikasi Serial Peripheral Interface (SPI)   : https://youtu.be/vyZlLgYyqH8
+1. Video 1  : Pengenalan Embedded System                     : 
+2. Video 2  : Mikrokontroler dan Papan Sistem Terpadu        : 
+3. Video 3  : Penerapan Display                              : 
+4. Video 4  : Penerapan Sensor                               : 
+5. Video 5  : Penerapan Aktuator                             : 
+6. Video 6  : Real Time Operating System (RTOS)              : 
+7. Video 7  : Komunikasi Universal Asynchronus RX/TX (UART)  : 
+8. Video 8  : Komunikasi Inter Intergrated Circuit (I2C)     : 
+9. Video 9  : Komunikasi Serial Peripheral Interface (SPI)   : 
 10. Video 10 : Modul Bluetooth HC-05                         :
 11. Video 11 : Protokol Internet of Things (IoT)             :
