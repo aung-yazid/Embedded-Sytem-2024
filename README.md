@@ -25,5 +25,4 @@ Video Pembelajaran :
 7. Video 7  : Komunikasi Universal Asynchronus RX/TX (UART)  : 
 8. Video 8  : Komunikasi Inter Intergrated Circuit (I2C)     : 
 9. Video 9  : Komunikasi Serial Peripheral Interface (SPI)   : 
-10. Video 10 : Modul Bluetooth HC-05                         :
-11. Video 11 : Protokol Internet of Things (IoT)             :
+10. Video 10 : Protokol Internet of Things (IoT)             :
