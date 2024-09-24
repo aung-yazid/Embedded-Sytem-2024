@@ -1,5 +1,5 @@
 # Embedded-System-2024
-Resume praktikum Embedded System Laboratorium Workshop 
+Resume Praktikum Embedded System Laboratorium Workshop 
 --------------------------------------------------------------------------
 
 Software dan tools yang dipakai :
