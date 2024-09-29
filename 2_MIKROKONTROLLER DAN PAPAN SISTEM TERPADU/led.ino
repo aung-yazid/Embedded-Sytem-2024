@@ -5,8 +5,8 @@ void setup(){
 }
 
 void loop(){
-  digitalWrite(ledPin, HIGH); //menuliskan kondisi led hidup selama 1 detik 
+  digitalWrite(led, HIGH); //menuliskan kondisi led hidup selama 1 detik 
   delay(1000);
-  digitalWrite(ledPin, LOW); //menuliskan kondisi led mati selama 1 detik
+  digitalWrite(led, LOW); //menuliskan kondisi led mati selama 1 detik
   delay(1000);
 }
