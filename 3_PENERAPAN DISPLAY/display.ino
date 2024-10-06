@@ -13,7 +13,7 @@ void setup(){
 void loop(){
   //setting keluaran dan posisi LCD
   lcd.setCursor(0,0); //seting posisi penempatann pada titik 0,0
-  lcd.print("Embedded S."); //mencetak variabel string kedalam lcd dengan posisi sesuai perintah sebelumnya
+  lcd.print("Embedded System"); //mencetak variabel string kedalam lcd dengan posisi sesuai perintah sebelumnya
   lcd.setCursor(0,1);
   lcd.print("Lab. Workshop");
 }
