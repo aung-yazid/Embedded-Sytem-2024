@@ -17,7 +17,7 @@ Software dan tools yang dipakai :
 Video Pembelajaran :
 --------------------
 1. Video 1  : Pengenalan Embedded System                     : https://youtu.be/C-p-QRGq7Og
-2. Video 2  : Mikrokontroler dan Papan Sistem Terpadu        : 
+2. Video 2  : Mikrokontroler dan Papan Sistem Terpadu        : https://youtu.be/cMy-vTB4CXo
 3. Video 3  : Penerapan Display                              : 
 4. Video 4  : Penerapan Sensor                               : 
 5. Video 5  : Penerapan Aktuator                             : 
