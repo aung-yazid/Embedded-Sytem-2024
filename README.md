@@ -12,6 +12,7 @@ Software dan tools yang dipakai :
 6. RoboRemoDemo : https://play.google.com/store/apps/details?id=com.hardcodedjoy.roboremofree (Smartphone)
 7. Esp8266 : https://arduino.esp8266.com/stable/package_esp8266com_index.json (salin pada preference software Arduino IDE lalu download pada Board Manager)
 8. Driver CH340 : https://sparks.gogo.co.nz/ch340.html
+9. I2C Display Library : https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 
 
 Video Pembelajaran :
